@@ -1,0 +1,43 @@
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csprojAssemblyReference.cache
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\nk99t\source\repos\TextToSpeechDemo\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\ADMIN\Desktop\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.SuggestedBindingRedirects.cache
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+D:\projects\TextToSpeechWithDotNet-main\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe.config
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.exe
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\bin\Debug\TextToSpeechDemo.pdb
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Form1.resources
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.exe
+C:\Users\ADMIN\Desktop\Shreshth Pratap Singh\PROJECTS\Text To Speech\TextToSpeechDemo\obj\Debug\TextToSpeechDemo.pdb
